@@ -1,5 +1,10 @@
 # Cookie One-Clicker. Win at Cookie Clicker.
 Want to have the best cookie farm of all-time? Tired of spending hours on this simple clicker game? Clicked a Ruin cookie and lost all your progress? Using other Cookie Clicker mod solutions and keep getting the `Cheated cookies taste awful` achievement? Or do you just want to flex on your friends? Try this!
+## Public Data
+Latest Release Version: [![npm version](https://badge.fury.io/js/cookieoneclicker.svg)](https://npmjs.com/package/cookieoneclicker)
+
+Times Source Downloaded: [![Npm package yearly downloads](https://badgen.net/npm/dy/cookieoneclicker)](https://npmjs.com/package/cookieoneclicker)
+ [![Npm package monthly downloads](https://badgen.net/npm/dm/cookieoneclicker)](https://npmjs.ccom/package/cookieoneclicker) [![Npm package daily downloads](https://badgen.net/npm/dm/cookieoneclicker)](https://npmjs.com/package/cookieoneclicker)
 ## Ways To Use
 ### Bookmarklet
 The original, classic method to use Cookie One-Clicker! Drag the following code to your bookmarks bar... 
